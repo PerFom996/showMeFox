@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">狐狸基金</string>
+
+    <string name="total_value">总资产（元）</string>
+    <string name="today_pnl">今日盈亏</string>
+    <string name="total_pnl">累计盈亏</string>
+    <string name="never_updated">尚未刷新</string>
+    <string name="total_cost_placeholder">成本 —</string>
+
+    <string name="add_holding">添加基金</string>
+    <string name="add_platform">新建平台</string>
+    <string name="refresh">刷新</string>
+    <string name="delete">删除</string>
+    <string name="edit">修改</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="confirm">确定</string>
+
+    <string name="empty_hint">还没有任何基金。\n点右下角「添加基金」，先选一个平台（支付宝 / 天天基金 / 银行 App…），再把基金放进去。</string>
+
+    <string name="hint_code">基金代码（6 位）</string>
+    <string name="hint_name_search">或输入基金名称搜索</string>
+    <string name="hint_shares">持有份额</string>
+    <string name="hint_cost">买入成本（元）</string>
+    <string name="hint_platform_name">平台名称，如 支付宝</string>
+
+    <string name="title_add_holding">添加基金</string>
+    <string name="title_edit_holding">修改持仓</string>
+    <string name="title_add_platform">新建平台</string>
+</resources>
